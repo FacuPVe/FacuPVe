@@ -20,12 +20,7 @@
 
 
 ## GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=FacuPVe" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FacuPVe&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FacuPVe)](https://github.com/FacuPVe/github-readme-stats)
 <!--
 **FacuPVe/FacuPVe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
